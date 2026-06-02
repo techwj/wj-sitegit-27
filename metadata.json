@@ -1,0 +1,59 @@
+{
+  "siteId": "weekend-getaway",
+  "generatedAt": "2026-06-02T15:38:18.155601",
+  "categories": [
+    "beginner-weekend-getaway",
+    "advanced-weekend-getaway",
+    "tips-weekend-getaway",
+    "history-weekend-getaway",
+    "trending-weekend-getaway",
+    "tutorials-weekend-getaway"
+  ],
+  "categoryData": [
+    {
+      "category_slug": "beginner-weekend-getaway",
+      "category_name": "Beginner Weekend Getaway"
+    },
+    {
+      "category_slug": "advanced-weekend-getaway",
+      "category_name": "Advanced Weekend Getaway"
+    },
+    {
+      "category_slug": "tips-weekend-getaway",
+      "category_name": "Weekend Getaway Tips"
+    },
+    {
+      "category_slug": "history-weekend-getaway",
+      "category_name": "Weekend Getaway History"
+    },
+    {
+      "category_slug": "trending-weekend-getaway",
+      "category_name": "Trending Weekend Getaway"
+    },
+    {
+      "category_slug": "tutorials-weekend-getaway",
+      "category_name": "Weekend Getaway Tutorials"
+    }
+  ],
+  "articleCount": 60,
+  "design": {
+    "site_id": "weekend-getaway",
+    "color_scheme": {
+      "name": "Forest Green",
+      "primary": "#166534",
+      "secondary": "#22c55e",
+      "accent": "#86efac",
+      "background": "#f0fdf4",
+      "text": "#14532d",
+      "light": "#dcfce7"
+    },
+    "font": {
+      "family": "'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif",
+      "heading": "'Segoe UI'",
+      "body": "Roboto"
+    },
+    "layout": "centered",
+    "site_title": "Weekend Getaway Central",
+    "articles_per_row": 1
+  }
+}

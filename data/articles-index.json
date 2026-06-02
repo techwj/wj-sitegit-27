@@ -1,0 +1,852 @@
+{
+  "articles": [
+    {
+      "id": 1,
+      "slug": "the-ultimate-guide-to-beginner-weekend-getaway",
+      "title": "The Ultimate Guide to Beginner Weekend Getaway",
+      "category": "beginner-weekend-getaway",
+      "created_at": "2026-06-02T15:38:18.107969",
+      "image": {
+        "id": "60f72c71747058d631815f584d01c524e4e7af96a2b9b907340940f4db8380bb",
+        "url": "https://picsum.photos/873/423?random=909",
+        "alt": "Featured image for: The Ultimate Guide to Beginner Weekend Getaway",
+        "width": 873,
+        "height": 423
+      }
+    },
+    {
+      "id": 2,
+      "slug": "beginner-weekend-getaway-everything-you-need-to-know",
+      "title": "Beginner Weekend Getaway: Everything You Need to Know",
+      "category": "beginner-weekend-getaway",
+      "created_at": "2026-06-02T15:38:18.108031",
+      "image": {
+        "id": "2fddc1d28cfd029110d3f1644c670a48d78a538fe23ba0a22c44bffce52f37a3",
+        "url": "https://picsum.photos/817/566?random=241",
+        "alt": "Featured image for: Beginner Weekend Getaway: Everything You Need to Know",
+        "width": 817,
+        "height": 566
+      }
+    },
+    {
+      "id": 3,
+      "slug": "understanding-beginner-weekend-getaway",
+      "title": "Understanding Beginner Weekend Getaway",
+      "category": "beginner-weekend-getaway",
+      "created_at": "2026-06-02T15:38:18.108072",
+      "image": {
+        "id": "5bad1429266c9463527cbe499545a61fa5af70881e0681095002b7e2e154f449",
+        "url": "https://picsum.photos/1083/544?random=524",
+        "alt": "Featured image for: Understanding Beginner Weekend Getaway",
+        "width": 1083,
+        "height": 544
+      }
+    },
+    {
+      "id": 4,
+      "slug": "beginner-weekend-getaway-tips-and-best-practices",
+      "title": "Beginner Weekend Getaway Tips and Best Practices",
+      "category": "beginner-weekend-getaway",
+      "created_at": "2026-06-02T15:38:18.108111",
+      "image": {
+        "id": "c73b0758f101ea9732f7a5f88a58197d3ba5f5a5779440114e71dd0c7f380efe",
+        "url": "https://picsum.photos/1127/477?random=218",
+        "alt": "Featured image for: Beginner Weekend Getaway Tips and Best Practices",
+        "width": 1127,
+        "height": 477
+      }
+    },
+    {
+      "id": 5,
+      "slug": "the-history-of-beginner-weekend-getaway",
+      "title": "The History of Beginner Weekend Getaway",
+      "category": "beginner-weekend-getaway",
+      "created_at": "2026-06-02T15:38:18.108215",
+      "image": {
+        "id": "600943f59000dda350e2cc5601c9f68c751013d17b484feddb11b3cbda4c0952",
+        "url": "https://picsum.photos/1128/558?random=338",
+        "alt": "Featured image for: The History of Beginner Weekend Getaway",
+        "width": 1128,
+        "height": 558
+      }
+    },
+    {
+      "id": 6,
+      "slug": "beginner-weekend-getaway-in-2026-current-trends",
+      "title": "Beginner Weekend Getaway in 2026: Current Trends",
+      "category": "beginner-weekend-getaway",
+      "created_at": "2026-06-02T15:38:18.108255",
+      "image": {
+        "id": "60f72c71747058d631815f584d01c524e4e7af96a2b9b907340940f4db8380bb",
+        "url": "https://picsum.photos/873/423?random=909",
+        "alt": "Featured image for: Beginner Weekend Getaway in 2026: Current Trends",
+        "width": 873,
+        "height": 423
+      }
+    },
+    {
+      "id": 7,
+      "slug": "future-of-beginner-weekend-getaway",
+      "title": "Future of Beginner Weekend Getaway",
+      "category": "beginner-weekend-getaway",
+      "created_at": "2026-06-02T15:38:18.108292",
+      "image": {
+        "id": "2fddc1d28cfd029110d3f1644c670a48d78a538fe23ba0a22c44bffce52f37a3",
+        "url": "https://picsum.photos/817/566?random=241",
+        "alt": "Featured image for: Future of Beginner Weekend Getaway",
+        "width": 817,
+        "height": 566
+      }
+    },
+    {
+      "id": 8,
+      "slug": "common-mistakes-in-beginner-weekend-getaway",
+      "title": "Common Mistakes in Beginner Weekend Getaway",
+      "category": "beginner-weekend-getaway",
+      "created_at": "2026-06-02T15:38:18.108328",
+      "image": {
+        "id": "c73b0758f101ea9732f7a5f88a58197d3ba5f5a5779440114e71dd0c7f380efe",
+        "url": "https://picsum.photos/1127/477?random=218",
+        "alt": "Featured image for: Common Mistakes in Beginner Weekend Getaway",
+        "width": 1127,
+        "height": 477
+      }
+    },
+    {
+      "id": 9,
+      "slug": "beginner-weekend-getaway-for-beginners",
+      "title": "Beginner Weekend Getaway for Beginners",
+      "category": "beginner-weekend-getaway",
+      "created_at": "2026-06-02T15:38:18.108366",
+      "image": {
+        "id": "2fddc1d28cfd029110d3f1644c670a48d78a538fe23ba0a22c44bffce52f37a3",
+        "url": "https://picsum.photos/817/566?random=241",
+        "alt": "Featured image for: Beginner Weekend Getaway for Beginners",
+        "width": 817,
+        "height": 566
+      }
+    },
+    {
+      "id": 10,
+      "slug": "advanced-beginner-weekend-getaway-techniques",
+      "title": "Advanced Beginner Weekend Getaway Techniques",
+      "category": "beginner-weekend-getaway",
+      "created_at": "2026-06-02T15:38:18.108400",
+      "image": {
+        "id": "2fddc1d28cfd029110d3f1644c670a48d78a538fe23ba0a22c44bffce52f37a3",
+        "url": "https://picsum.photos/817/566?random=241",
+        "alt": "Featured image for: Advanced Beginner Weekend Getaway Techniques",
+        "width": 817,
+        "height": 566
+      }
+    },
+    {
+      "id": 19,
+      "slug": "the-ultimate-guide-to-advanced-weekend-getaway",
+      "title": "The Ultimate Guide to Advanced Weekend Getaway",
+      "category": "advanced-weekend-getaway",
+      "created_at": "2026-06-02T15:38:18.108719",
+      "image": {
+        "id": "c73b0758f101ea9732f7a5f88a58197d3ba5f5a5779440114e71dd0c7f380efe",
+        "url": "https://picsum.photos/1127/477?random=218",
+        "alt": "Featured image for: The Ultimate Guide to Advanced Weekend Getaway",
+        "width": 1127,
+        "height": 477
+      }
+    },
+    {
+      "id": 20,
+      "slug": "advanced-weekend-getaway-everything-you-need-to-know",
+      "title": "Advanced Weekend Getaway: Everything You Need to Know",
+      "category": "advanced-weekend-getaway",
+      "created_at": "2026-06-02T15:38:18.108823",
+      "image": {
+        "id": "600943f59000dda350e2cc5601c9f68c751013d17b484feddb11b3cbda4c0952",
+        "url": "https://picsum.photos/1128/558?random=338",
+        "alt": "Featured image for: Advanced Weekend Getaway: Everything You Need to Know",
+        "width": 1128,
+        "height": 558
+      }
+    },
+    {
+      "id": 21,
+      "slug": "understanding-advanced-weekend-getaway",
+      "title": "Understanding Advanced Weekend Getaway",
+      "category": "advanced-weekend-getaway",
+      "created_at": "2026-06-02T15:38:18.108955",
+      "image": {
+        "id": "2fddc1d28cfd029110d3f1644c670a48d78a538fe23ba0a22c44bffce52f37a3",
+        "url": "https://picsum.photos/817/566?random=241",
+        "alt": "Featured image for: Understanding Advanced Weekend Getaway",
+        "width": 817,
+        "height": 566
+      }
+    },
+    {
+      "id": 22,
+      "slug": "advanced-weekend-getaway-tips-and-best-practices",
+      "title": "Advanced Weekend Getaway Tips and Best Practices",
+      "category": "advanced-weekend-getaway",
+      "created_at": "2026-06-02T15:38:18.109058",
+      "image": {
+        "id": "5bad1429266c9463527cbe499545a61fa5af70881e0681095002b7e2e154f449",
+        "url": "https://picsum.photos/1083/544?random=524",
+        "alt": "Featured image for: Advanced Weekend Getaway Tips and Best Practices",
+        "width": 1083,
+        "height": 544
+      }
+    },
+    {
+      "id": 23,
+      "slug": "the-history-of-advanced-weekend-getaway",
+      "title": "The History of Advanced Weekend Getaway",
+      "category": "advanced-weekend-getaway",
+      "created_at": "2026-06-02T15:38:18.109149",
+      "image": {
+        "id": "c73b0758f101ea9732f7a5f88a58197d3ba5f5a5779440114e71dd0c7f380efe",
+        "url": "https://picsum.photos/1127/477?random=218",
+        "alt": "Featured image for: The History of Advanced Weekend Getaway",
+        "width": 1127,
+        "height": 477
+      }
+    },
+    {
+      "id": 24,
+      "slug": "advanced-weekend-getaway-in-2026-current-trends",
+      "title": "Advanced Weekend Getaway in 2026: Current Trends",
+      "category": "advanced-weekend-getaway",
+      "created_at": "2026-06-02T15:38:18.109196",
+      "image": {
+        "id": "2fddc1d28cfd029110d3f1644c670a48d78a538fe23ba0a22c44bffce52f37a3",
+        "url": "https://picsum.photos/817/566?random=241",
+        "alt": "Featured image for: Advanced Weekend Getaway in 2026: Current Trends",
+        "width": 817,
+        "height": 566
+      }
+    },
+    {
+      "id": 25,
+      "slug": "future-of-advanced-weekend-getaway",
+      "title": "Future of Advanced Weekend Getaway",
+      "category": "advanced-weekend-getaway",
+      "created_at": "2026-06-02T15:38:18.109300",
+      "image": {
+        "id": "2fddc1d28cfd029110d3f1644c670a48d78a538fe23ba0a22c44bffce52f37a3",
+        "url": "https://picsum.photos/817/566?random=241",
+        "alt": "Featured image for: Future of Advanced Weekend Getaway",
+        "width": 817,
+        "height": 566
+      }
+    },
+    {
+      "id": 26,
+      "slug": "common-mistakes-in-advanced-weekend-getaway",
+      "title": "Common Mistakes in Advanced Weekend Getaway",
+      "category": "advanced-weekend-getaway",
+      "created_at": "2026-06-02T15:38:18.109355",
+      "image": {
+        "id": "c73b0758f101ea9732f7a5f88a58197d3ba5f5a5779440114e71dd0c7f380efe",
+        "url": "https://picsum.photos/1127/477?random=218",
+        "alt": "Featured image for: Common Mistakes in Advanced Weekend Getaway",
+        "width": 1127,
+        "height": 477
+      }
+    },
+    {
+      "id": 27,
+      "slug": "advanced-weekend-getaway-for-beginners",
+      "title": "Advanced Weekend Getaway for Beginners",
+      "category": "advanced-weekend-getaway",
+      "created_at": "2026-06-02T15:38:18.109398",
+      "image": {
+        "id": "c73b0758f101ea9732f7a5f88a58197d3ba5f5a5779440114e71dd0c7f380efe",
+        "url": "https://picsum.photos/1127/477?random=218",
+        "alt": "Featured image for: Advanced Weekend Getaway for Beginners",
+        "width": 1127,
+        "height": 477
+      }
+    },
+    {
+      "id": 28,
+      "slug": "advanced-advanced-weekend-getaway-techniques",
+      "title": "Advanced Advanced Weekend Getaway Techniques",
+      "category": "advanced-weekend-getaway",
+      "created_at": "2026-06-02T15:38:18.109438",
+      "image": {
+        "id": "2fddc1d28cfd029110d3f1644c670a48d78a538fe23ba0a22c44bffce52f37a3",
+        "url": "https://picsum.photos/817/566?random=241",
+        "alt": "Featured image for: Advanced Advanced Weekend Getaway Techniques",
+        "width": 817,
+        "height": 566
+      }
+    },
+    {
+      "id": 37,
+      "slug": "the-ultimate-guide-to-weekend-getaway-tips",
+      "title": "The Ultimate Guide to Weekend Getaway Tips",
+      "category": "tips-weekend-getaway",
+      "created_at": "2026-06-02T15:38:18.109785",
+      "image": {
+        "id": "c73b0758f101ea9732f7a5f88a58197d3ba5f5a5779440114e71dd0c7f380efe",
+        "url": "https://picsum.photos/1127/477?random=218",
+        "alt": "Featured image for: The Ultimate Guide to Weekend Getaway Tips",
+        "width": 1127,
+        "height": 477
+      }
+    },
+    {
+      "id": 38,
+      "slug": "weekend-getaway-tips-everything-you-need-to-know",
+      "title": "Weekend Getaway Tips: Everything You Need to Know",
+      "category": "tips-weekend-getaway",
+      "created_at": "2026-06-02T15:38:18.109823",
+      "image": {
+        "id": "600943f59000dda350e2cc5601c9f68c751013d17b484feddb11b3cbda4c0952",
+        "url": "https://picsum.photos/1128/558?random=338",
+        "alt": "Featured image for: Weekend Getaway Tips: Everything You Need to Know",
+        "width": 1128,
+        "height": 558
+      }
+    },
+    {
+      "id": 39,
+      "slug": "understanding-weekend-getaway-tips",
+      "title": "Understanding Weekend Getaway Tips",
+      "category": "tips-weekend-getaway",
+      "created_at": "2026-06-02T15:38:18.109860",
+      "image": {
+        "id": "60f72c71747058d631815f584d01c524e4e7af96a2b9b907340940f4db8380bb",
+        "url": "https://picsum.photos/873/423?random=909",
+        "alt": "Featured image for: Understanding Weekend Getaway Tips",
+        "width": 873,
+        "height": 423
+      }
+    },
+    {
+      "id": 40,
+      "slug": "weekend-getaway-tips-tips-and-best-practices",
+      "title": "Weekend Getaway Tips Tips and Best Practices",
+      "category": "tips-weekend-getaway",
+      "created_at": "2026-06-02T15:38:18.109897",
+      "image": {
+        "id": "60f72c71747058d631815f584d01c524e4e7af96a2b9b907340940f4db8380bb",
+        "url": "https://picsum.photos/873/423?random=909",
+        "alt": "Featured image for: Weekend Getaway Tips Tips and Best Practices",
+        "width": 873,
+        "height": 423
+      }
+    },
+    {
+      "id": 41,
+      "slug": "the-history-of-weekend-getaway-tips",
+      "title": "The History of Weekend Getaway Tips",
+      "category": "tips-weekend-getaway",
+      "created_at": "2026-06-02T15:38:18.109937",
+      "image": {
+        "id": "5bad1429266c9463527cbe499545a61fa5af70881e0681095002b7e2e154f449",
+        "url": "https://picsum.photos/1083/544?random=524",
+        "alt": "Featured image for: The History of Weekend Getaway Tips",
+        "width": 1083,
+        "height": 544
+      }
+    },
+    {
+      "id": 42,
+      "slug": "weekend-getaway-tips-in-2026-current-trends",
+      "title": "Weekend Getaway Tips in 2026: Current Trends",
+      "category": "tips-weekend-getaway",
+      "created_at": "2026-06-02T15:38:18.109975",
+      "image": {
+        "id": "5bad1429266c9463527cbe499545a61fa5af70881e0681095002b7e2e154f449",
+        "url": "https://picsum.photos/1083/544?random=524",
+        "alt": "Featured image for: Weekend Getaway Tips in 2026: Current Trends",
+        "width": 1083,
+        "height": 544
+      }
+    },
+    {
+      "id": 43,
+      "slug": "future-of-weekend-getaway-tips",
+      "title": "Future of Weekend Getaway Tips",
+      "category": "tips-weekend-getaway",
+      "created_at": "2026-06-02T15:38:18.110011",
+      "image": {
+        "id": "c73b0758f101ea9732f7a5f88a58197d3ba5f5a5779440114e71dd0c7f380efe",
+        "url": "https://picsum.photos/1127/477?random=218",
+        "alt": "Featured image for: Future of Weekend Getaway Tips",
+        "width": 1127,
+        "height": 477
+      }
+    },
+    {
+      "id": 44,
+      "slug": "common-mistakes-in-weekend-getaway-tips",
+      "title": "Common Mistakes in Weekend Getaway Tips",
+      "category": "tips-weekend-getaway",
+      "created_at": "2026-06-02T15:38:18.110054",
+      "image": {
+        "id": "600943f59000dda350e2cc5601c9f68c751013d17b484feddb11b3cbda4c0952",
+        "url": "https://picsum.photos/1128/558?random=338",
+        "alt": "Featured image for: Common Mistakes in Weekend Getaway Tips",
+        "width": 1128,
+        "height": 558
+      }
+    },
+    {
+      "id": 45,
+      "slug": "weekend-getaway-tips-for-beginners",
+      "title": "Weekend Getaway Tips for Beginners",
+      "category": "tips-weekend-getaway",
+      "created_at": "2026-06-02T15:38:18.110093",
+      "image": {
+        "id": "c73b0758f101ea9732f7a5f88a58197d3ba5f5a5779440114e71dd0c7f380efe",
+        "url": "https://picsum.photos/1127/477?random=218",
+        "alt": "Featured image for: Weekend Getaway Tips for Beginners",
+        "width": 1127,
+        "height": 477
+      }
+    },
+    {
+      "id": 46,
+      "slug": "advanced-weekend-getaway-tips-techniques",
+      "title": "Advanced Weekend Getaway Tips Techniques",
+      "category": "tips-weekend-getaway",
+      "created_at": "2026-06-02T15:38:18.110129",
+      "image": {
+        "id": "60f72c71747058d631815f584d01c524e4e7af96a2b9b907340940f4db8380bb",
+        "url": "https://picsum.photos/873/423?random=909",
+        "alt": "Featured image for: Advanced Weekend Getaway Tips Techniques",
+        "width": 873,
+        "height": 423
+      }
+    },
+    {
+      "id": 55,
+      "slug": "the-ultimate-guide-to-weekend-getaway-history",
+      "title": "The Ultimate Guide to Weekend Getaway History",
+      "category": "history-weekend-getaway",
+      "created_at": "2026-06-02T15:38:18.110457",
+      "image": {
+        "id": "2fddc1d28cfd029110d3f1644c670a48d78a538fe23ba0a22c44bffce52f37a3",
+        "url": "https://picsum.photos/817/566?random=241",
+        "alt": "Featured image for: The Ultimate Guide to Weekend Getaway History",
+        "width": 817,
+        "height": 566
+      }
+    },
+    {
+      "id": 56,
+      "slug": "weekend-getaway-history-everything-you-need-to-know",
+      "title": "Weekend Getaway History: Everything You Need to Know",
+      "category": "history-weekend-getaway",
+      "created_at": "2026-06-02T15:38:18.110494",
+      "image": {
+        "id": "600943f59000dda350e2cc5601c9f68c751013d17b484feddb11b3cbda4c0952",
+        "url": "https://picsum.photos/1128/558?random=338",
+        "alt": "Featured image for: Weekend Getaway History: Everything You Need to Know",
+        "width": 1128,
+        "height": 558
+      }
+    },
+    {
+      "id": 57,
+      "slug": "understanding-weekend-getaway-history",
+      "title": "Understanding Weekend Getaway History",
+      "category": "history-weekend-getaway",
+      "created_at": "2026-06-02T15:38:18.110532",
+      "image": {
+        "id": "5bad1429266c9463527cbe499545a61fa5af70881e0681095002b7e2e154f449",
+        "url": "https://picsum.photos/1083/544?random=524",
+        "alt": "Featured image for: Understanding Weekend Getaway History",
+        "width": 1083,
+        "height": 544
+      }
+    },
+    {
+      "id": 58,
+      "slug": "weekend-getaway-history-tips-and-best-practices",
+      "title": "Weekend Getaway History Tips and Best Practices",
+      "category": "history-weekend-getaway",
+      "created_at": "2026-06-02T15:38:18.110569",
+      "image": {
+        "id": "2fddc1d28cfd029110d3f1644c670a48d78a538fe23ba0a22c44bffce52f37a3",
+        "url": "https://picsum.photos/817/566?random=241",
+        "alt": "Featured image for: Weekend Getaway History Tips and Best Practices",
+        "width": 817,
+        "height": 566
+      }
+    },
+    {
+      "id": 59,
+      "slug": "the-history-of-weekend-getaway-history",
+      "title": "The History of Weekend Getaway History",
+      "category": "history-weekend-getaway",
+      "created_at": "2026-06-02T15:38:18.110606",
+      "image": {
+        "id": "2fddc1d28cfd029110d3f1644c670a48d78a538fe23ba0a22c44bffce52f37a3",
+        "url": "https://picsum.photos/817/566?random=241",
+        "alt": "Featured image for: The History of Weekend Getaway History",
+        "width": 817,
+        "height": 566
+      }
+    },
+    {
+      "id": 60,
+      "slug": "weekend-getaway-history-in-2026-current-trends",
+      "title": "Weekend Getaway History in 2026: Current Trends",
+      "category": "history-weekend-getaway",
+      "created_at": "2026-06-02T15:38:18.110643",
+      "image": {
+        "id": "c73b0758f101ea9732f7a5f88a58197d3ba5f5a5779440114e71dd0c7f380efe",
+        "url": "https://picsum.photos/1127/477?random=218",
+        "alt": "Featured image for: Weekend Getaway History in 2026: Current Trends",
+        "width": 1127,
+        "height": 477
+      }
+    },
+    {
+      "id": 61,
+      "slug": "future-of-weekend-getaway-history",
+      "title": "Future of Weekend Getaway History",
+      "category": "history-weekend-getaway",
+      "created_at": "2026-06-02T15:38:18.110680",
+      "image": {
+        "id": "60f72c71747058d631815f584d01c524e4e7af96a2b9b907340940f4db8380bb",
+        "url": "https://picsum.photos/873/423?random=909",
+        "alt": "Featured image for: Future of Weekend Getaway History",
+        "width": 873,
+        "height": 423
+      }
+    },
+    {
+      "id": 62,
+      "slug": "common-mistakes-in-weekend-getaway-history",
+      "title": "Common Mistakes in Weekend Getaway History",
+      "category": "history-weekend-getaway",
+      "created_at": "2026-06-02T15:38:18.110717",
+      "image": {
+        "id": "c73b0758f101ea9732f7a5f88a58197d3ba5f5a5779440114e71dd0c7f380efe",
+        "url": "https://picsum.photos/1127/477?random=218",
+        "alt": "Featured image for: Common Mistakes in Weekend Getaway History",
+        "width": 1127,
+        "height": 477
+      }
+    },
+    {
+      "id": 63,
+      "slug": "weekend-getaway-history-for-beginners",
+      "title": "Weekend Getaway History for Beginners",
+      "category": "history-weekend-getaway",
+      "created_at": "2026-06-02T15:38:18.110756",
+      "image": {
+        "id": "2fddc1d28cfd029110d3f1644c670a48d78a538fe23ba0a22c44bffce52f37a3",
+        "url": "https://picsum.photos/817/566?random=241",
+        "alt": "Featured image for: Weekend Getaway History for Beginners",
+        "width": 817,
+        "height": 566
+      }
+    },
+    {
+      "id": 64,
+      "slug": "advanced-weekend-getaway-history-techniques",
+      "title": "Advanced Weekend Getaway History Techniques",
+      "category": "history-weekend-getaway",
+      "created_at": "2026-06-02T15:38:18.110793",
+      "image": {
+        "id": "2fddc1d28cfd029110d3f1644c670a48d78a538fe23ba0a22c44bffce52f37a3",
+        "url": "https://picsum.photos/817/566?random=241",
+        "alt": "Featured image for: Advanced Weekend Getaway History Techniques",
+        "width": 817,
+        "height": 566
+      }
+    },
+    {
+      "id": 73,
+      "slug": "the-ultimate-guide-to-trending-weekend-getaway",
+      "title": "The Ultimate Guide to Trending Weekend Getaway",
+      "category": "trending-weekend-getaway",
+      "created_at": "2026-06-02T15:38:18.111125",
+      "image": {
+        "id": "5bad1429266c9463527cbe499545a61fa5af70881e0681095002b7e2e154f449",
+        "url": "https://picsum.photos/1083/544?random=524",
+        "alt": "Featured image for: The Ultimate Guide to Trending Weekend Getaway",
+        "width": 1083,
+        "height": 544
+      }
+    },
+    {
+      "id": 74,
+      "slug": "trending-weekend-getaway-everything-you-need-to-know",
+      "title": "Trending Weekend Getaway: Everything You Need to Know",
+      "category": "trending-weekend-getaway",
+      "created_at": "2026-06-02T15:38:18.111162",
+      "image": {
+        "id": "2fddc1d28cfd029110d3f1644c670a48d78a538fe23ba0a22c44bffce52f37a3",
+        "url": "https://picsum.photos/817/566?random=241",
+        "alt": "Featured image for: Trending Weekend Getaway: Everything You Need to Know",
+        "width": 817,
+        "height": 566
+      }
+    },
+    {
+      "id": 75,
+      "slug": "understanding-trending-weekend-getaway",
+      "title": "Understanding Trending Weekend Getaway",
+      "category": "trending-weekend-getaway",
+      "created_at": "2026-06-02T15:38:18.111199",
+      "image": {
+        "id": "60f72c71747058d631815f584d01c524e4e7af96a2b9b907340940f4db8380bb",
+        "url": "https://picsum.photos/873/423?random=909",
+        "alt": "Featured image for: Understanding Trending Weekend Getaway",
+        "width": 873,
+        "height": 423
+      }
+    },
+    {
+      "id": 76,
+      "slug": "trending-weekend-getaway-tips-and-best-practices",
+      "title": "Trending Weekend Getaway Tips and Best Practices",
+      "category": "trending-weekend-getaway",
+      "created_at": "2026-06-02T15:38:18.111235",
+      "image": {
+        "id": "2fddc1d28cfd029110d3f1644c670a48d78a538fe23ba0a22c44bffce52f37a3",
+        "url": "https://picsum.photos/817/566?random=241",
+        "alt": "Featured image for: Trending Weekend Getaway Tips and Best Practices",
+        "width": 817,
+        "height": 566
+      }
+    },
+    {
+      "id": 77,
+      "slug": "the-history-of-trending-weekend-getaway",
+      "title": "The History of Trending Weekend Getaway",
+      "category": "trending-weekend-getaway",
+      "created_at": "2026-06-02T15:38:18.111273",
+      "image": {
+        "id": "60f72c71747058d631815f584d01c524e4e7af96a2b9b907340940f4db8380bb",
+        "url": "https://picsum.photos/873/423?random=909",
+        "alt": "Featured image for: The History of Trending Weekend Getaway",
+        "width": 873,
+        "height": 423
+      }
+    },
+    {
+      "id": 78,
+      "slug": "trending-weekend-getaway-in-2026-current-trends",
+      "title": "Trending Weekend Getaway in 2026: Current Trends",
+      "category": "trending-weekend-getaway",
+      "created_at": "2026-06-02T15:38:18.111311",
+      "image": {
+        "id": "600943f59000dda350e2cc5601c9f68c751013d17b484feddb11b3cbda4c0952",
+        "url": "https://picsum.photos/1128/558?random=338",
+        "alt": "Featured image for: Trending Weekend Getaway in 2026: Current Trends",
+        "width": 1128,
+        "height": 558
+      }
+    },
+    {
+      "id": 79,
+      "slug": "future-of-trending-weekend-getaway",
+      "title": "Future of Trending Weekend Getaway",
+      "category": "trending-weekend-getaway",
+      "created_at": "2026-06-02T15:38:18.111348",
+      "image": {
+        "id": "5bad1429266c9463527cbe499545a61fa5af70881e0681095002b7e2e154f449",
+        "url": "https://picsum.photos/1083/544?random=524",
+        "alt": "Featured image for: Future of Trending Weekend Getaway",
+        "width": 1083,
+        "height": 544
+      }
+    },
+    {
+      "id": 80,
+      "slug": "common-mistakes-in-trending-weekend-getaway",
+      "title": "Common Mistakes in Trending Weekend Getaway",
+      "category": "trending-weekend-getaway",
+      "created_at": "2026-06-02T15:38:18.111384",
+      "image": {
+        "id": "2fddc1d28cfd029110d3f1644c670a48d78a538fe23ba0a22c44bffce52f37a3",
+        "url": "https://picsum.photos/817/566?random=241",
+        "alt": "Featured image for: Common Mistakes in Trending Weekend Getaway",
+        "width": 817,
+        "height": 566
+      }
+    },
+    {
+      "id": 81,
+      "slug": "trending-weekend-getaway-for-beginners",
+      "title": "Trending Weekend Getaway for Beginners",
+      "category": "trending-weekend-getaway",
+      "created_at": "2026-06-02T15:38:18.111422",
+      "image": {
+        "id": "2fddc1d28cfd029110d3f1644c670a48d78a538fe23ba0a22c44bffce52f37a3",
+        "url": "https://picsum.photos/817/566?random=241",
+        "alt": "Featured image for: Trending Weekend Getaway for Beginners",
+        "width": 817,
+        "height": 566
+      }
+    },
+    {
+      "id": 82,
+      "slug": "advanced-trending-weekend-getaway-techniques",
+      "title": "Advanced Trending Weekend Getaway Techniques",
+      "category": "trending-weekend-getaway",
+      "created_at": "2026-06-02T15:38:18.111458",
+      "image": {
+        "id": "5bad1429266c9463527cbe499545a61fa5af70881e0681095002b7e2e154f449",
+        "url": "https://picsum.photos/1083/544?random=524",
+        "alt": "Featured image for: Advanced Trending Weekend Getaway Techniques",
+        "width": 1083,
+        "height": 544
+      }
+    },
+    {
+      "id": 91,
+      "slug": "the-ultimate-guide-to-weekend-getaway-tutorials",
+      "title": "The Ultimate Guide to Weekend Getaway Tutorials",
+      "category": "tutorials-weekend-getaway",
+      "created_at": "2026-06-02T15:38:18.111793",
+      "image": {
+        "id": "c73b0758f101ea9732f7a5f88a58197d3ba5f5a5779440114e71dd0c7f380efe",
+        "url": "https://picsum.photos/1127/477?random=218",
+        "alt": "Featured image for: The Ultimate Guide to Weekend Getaway Tutorials",
+        "width": 1127,
+        "height": 477
+      }
+    },
+    {
+      "id": 92,
+      "slug": "weekend-getaway-tutorials-everything-you-need-to-know",
+      "title": "Weekend Getaway Tutorials: Everything You Need to Know",
+      "category": "tutorials-weekend-getaway",
+      "created_at": "2026-06-02T15:38:18.111833",
+      "image": {
+        "id": "c73b0758f101ea9732f7a5f88a58197d3ba5f5a5779440114e71dd0c7f380efe",
+        "url": "https://picsum.photos/1127/477?random=218",
+        "alt": "Featured image for: Weekend Getaway Tutorials: Everything You Need to Know",
+        "width": 1127,
+        "height": 477
+      }
+    },
+    {
+      "id": 93,
+      "slug": "understanding-weekend-getaway-tutorials",
+      "title": "Understanding Weekend Getaway Tutorials",
+      "category": "tutorials-weekend-getaway",
+      "created_at": "2026-06-02T15:38:18.111872",
+      "image": {
+        "id": "2fddc1d28cfd029110d3f1644c670a48d78a538fe23ba0a22c44bffce52f37a3",
+        "url": "https://picsum.photos/817/566?random=241",
+        "alt": "Featured image for: Understanding Weekend Getaway Tutorials",
+        "width": 817,
+        "height": 566
+      }
+    },
+    {
+      "id": 94,
+      "slug": "weekend-getaway-tutorials-tips-and-best-practices",
+      "title": "Weekend Getaway Tutorials Tips and Best Practices",
+      "category": "tutorials-weekend-getaway",
+      "created_at": "2026-06-02T15:38:18.111909",
+      "image": {
+        "id": "5bad1429266c9463527cbe499545a61fa5af70881e0681095002b7e2e154f449",
+        "url": "https://picsum.photos/1083/544?random=524",
+        "alt": "Featured image for: Weekend Getaway Tutorials Tips and Best Practices",
+        "width": 1083,
+        "height": 544
+      }
+    },
+    {
+      "id": 95,
+      "slug": "the-history-of-weekend-getaway-tutorials",
+      "title": "The History of Weekend Getaway Tutorials",
+      "category": "tutorials-weekend-getaway",
+      "created_at": "2026-06-02T15:38:18.111946",
+      "image": {
+        "id": "600943f59000dda350e2cc5601c9f68c751013d17b484feddb11b3cbda4c0952",
+        "url": "https://picsum.photos/1128/558?random=338",
+        "alt": "Featured image for: The History of Weekend Getaway Tutorials",
+        "width": 1128,
+        "height": 558
+      }
+    },
+    {
+      "id": 96,
+      "slug": "weekend-getaway-tutorials-in-2026-current-trends",
+      "title": "Weekend Getaway Tutorials in 2026: Current Trends",
+      "category": "tutorials-weekend-getaway",
+      "created_at": "2026-06-02T15:38:18.111983",
+      "image": {
+        "id": "2fddc1d28cfd029110d3f1644c670a48d78a538fe23ba0a22c44bffce52f37a3",
+        "url": "https://picsum.photos/817/566?random=241",
+        "alt": "Featured image for: Weekend Getaway Tutorials in 2026: Current Trends",
+        "width": 817,
+        "height": 566
+      }
+    },
+    {
+      "id": 97,
+      "slug": "future-of-weekend-getaway-tutorials",
+      "title": "Future of Weekend Getaway Tutorials",
+      "category": "tutorials-weekend-getaway",
+      "created_at": "2026-06-02T15:38:18.112021",
+      "image": {
+        "id": "600943f59000dda350e2cc5601c9f68c751013d17b484feddb11b3cbda4c0952",
+        "url": "https://picsum.photos/1128/558?random=338",
+        "alt": "Featured image for: Future of Weekend Getaway Tutorials",
+        "width": 1128,
+        "height": 558
+      }
+    },
+    {
+      "id": 98,
+      "slug": "common-mistakes-in-weekend-getaway-tutorials",
+      "title": "Common Mistakes in Weekend Getaway Tutorials",
+      "category": "tutorials-weekend-getaway",
+      "created_at": "2026-06-02T15:38:18.112057",
+      "image": {
+        "id": "60f72c71747058d631815f584d01c524e4e7af96a2b9b907340940f4db8380bb",
+        "url": "https://picsum.photos/873/423?random=909",
+        "alt": "Featured image for: Common Mistakes in Weekend Getaway Tutorials",
+        "width": 873,
+        "height": 423
+      }
+    },
+    {
+      "id": 99,
+      "slug": "weekend-getaway-tutorials-for-beginners",
+      "title": "Weekend Getaway Tutorials for Beginners",
+      "category": "tutorials-weekend-getaway",
+      "created_at": "2026-06-02T15:38:18.112095",
+      "image": {
+        "id": "5bad1429266c9463527cbe499545a61fa5af70881e0681095002b7e2e154f449",
+        "url": "https://picsum.photos/1083/544?random=524",
+        "alt": "Featured image for: Weekend Getaway Tutorials for Beginners",
+        "width": 1083,
+        "height": 544
+      }
+    },
+    {
+      "id": 100,
+      "slug": "advanced-weekend-getaway-tutorials-techniques",
+      "title": "Advanced Weekend Getaway Tutorials Techniques",
+      "category": "tutorials-weekend-getaway",
+      "created_at": "2026-06-02T15:38:18.112131",
+      "image": {
+        "id": "2fddc1d28cfd029110d3f1644c670a48d78a538fe23ba0a22c44bffce52f37a3",
+        "url": "https://picsum.photos/817/566?random=241",
+        "alt": "Featured image for: Advanced Weekend Getaway Tutorials Techniques",
+        "width": 817,
+        "height": 566
+      }
+    }
+  ],
+  "categories": [
+    "beginner-weekend-getaway",
+    "advanced-weekend-getaway",
+    "tips-weekend-getaway",
+    "history-weekend-getaway",
+    "trending-weekend-getaway",
+    "tutorials-weekend-getaway"
+  ]
+}

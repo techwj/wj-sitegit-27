@@ -1,0 +1,88 @@
+# Validation Report - weekend-getaway
+
+Generated: 2026-06-02T15:38:18.155263
+
+## Passed
+
+- ✓ Required file exists: privacy.html
+- ✓ Required file exists: cookie-policy.html
+- ✓ Required file exists: terms.html
+- ✓ Required file exists: ad-policy.html
+- ✓ Required file exists: contact.html
+- ✓ Required file exists: about.html
+- ✓ Required file exists: dmca.html
+- ✓ Required file exists: accessibility.html
+- ✓ Suggested file exists: data-request.html
+- ✓ Suggested file exists: do-not-sell.html
+- ✓ Suggested file exists: third-party-disclosure.html
+- ✓ Suggested file exists: disclaimer.html
+- ✓ Suggested file exists: external-link-policy.html
+- ✓ Suggested file exists: content-policy.html
+- ✓ Suggested file exists: security-policy.html
+- ✓ Suggested file exists: children-privacy.html
+- ✓ Suggested file exists: refund-policy.html
+- ✓ Suggested file exists: faq.html
+- ✓ Suggested file exists: press-kit.html
+- ✓ Suggested file exists: feedback.html
+- ✓ Suggested file exists: code-of-conduct.html
+- ✓ Article word count OK: The Ultimate Guide to Beginner Weekend Getaway
+- ✓ Article word count OK: Beginner Weekend Getaway: Everything You Need to Know
+- ✓ Article word count OK: Understanding Beginner Weekend Getaway
+- ✓ Article word count OK: Beginner Weekend Getaway Tips and Best Practices
+- ✓ Article word count OK: The History of Beginner Weekend Getaway
+- ✓ Article word count OK: Beginner Weekend Getaway in 2026: Current Trends
+- ✓ Article word count OK: Future of Beginner Weekend Getaway
+- ✓ Article word count OK: Common Mistakes in Beginner Weekend Getaway
+- ✓ Article word count OK: Beginner Weekend Getaway for Beginners
+- ✓ Article word count OK: Advanced Beginner Weekend Getaway Techniques
+- ✓ Article word count OK: The Ultimate Guide to Advanced Weekend Getaway
+- ✓ Article word count OK: Advanced Weekend Getaway: Everything You Need to Know
+- ✓ Article word count OK: Understanding Advanced Weekend Getaway
+- ✓ Article word count OK: Advanced Weekend Getaway Tips and Best Practices
+- ✓ Article word count OK: The History of Advanced Weekend Getaway
+- ✓ Article word count OK: Advanced Weekend Getaway in 2026: Current Trends
+- ✓ Article word count OK: Future of Advanced Weekend Getaway
+- ✓ Article word count OK: Common Mistakes in Advanced Weekend Getaway
+- ✓ Article word count OK: Advanced Weekend Getaway for Beginners
+- ✓ Article word count OK: Advanced Advanced Weekend Getaway Techniques
+- ✓ Article word count OK: The Ultimate Guide to Weekend Getaway Tips
+- ✓ Article word count OK: Weekend Getaway Tips: Everything You Need to Know
+- ✓ Article word count OK: Understanding Weekend Getaway Tips
+- ✓ Article word count OK: Weekend Getaway Tips Tips and Best Practices
+- ✓ Article word count OK: The History of Weekend Getaway Tips
+- ✓ Article word count OK: Weekend Getaway Tips in 2026: Current Trends
+- ✓ Article word count OK: Future of Weekend Getaway Tips
+- ✓ Article word count OK: Common Mistakes in Weekend Getaway Tips
+- ✓ Article word count OK: Weekend Getaway Tips for Beginners
+- ✓ Article word count OK: Advanced Weekend Getaway Tips Techniques
+- ✓ Article word count OK: The Ultimate Guide to Weekend Getaway History
+- ✓ Article word count OK: Weekend Getaway History: Everything You Need to Know
+- ✓ Article word count OK: Understanding Weekend Getaway History
+- ✓ Article word count OK: Weekend Getaway History Tips and Best Practices
+- ✓ Article word count OK: The History of Weekend Getaway History
+- ✓ Article word count OK: Weekend Getaway History in 2026: Current Trends
+- ✓ Article word count OK: Future of Weekend Getaway History
+- ✓ Article word count OK: Common Mistakes in Weekend Getaway History
+- ✓ Article word count OK: Weekend Getaway History for Beginners
+- ✓ Article word count OK: Advanced Weekend Getaway History Techniques
+- ✓ Article word count OK: The Ultimate Guide to Trending Weekend Getaway
+- ✓ Article word count OK: Trending Weekend Getaway: Everything You Need to Know
+- ✓ Article word count OK: Understanding Trending Weekend Getaway
+- ✓ Article word count OK: Trending Weekend Getaway Tips and Best Practices
+- ✓ Article word count OK: The History of Trending Weekend Getaway
+- ✓ Article word count OK: Trending Weekend Getaway in 2026: Current Trends
+- ✓ Article word count OK: Future of Trending Weekend Getaway
+- ✓ Article word count OK: Common Mistakes in Trending Weekend Getaway
+- ✓ Article word count OK: Trending Weekend Getaway for Beginners
+- ✓ Article word count OK: Advanced Trending Weekend Getaway Techniques
+- ✓ Article word count OK: The Ultimate Guide to Weekend Getaway Tutorials
+- ✓ Article word count OK: Weekend Getaway Tutorials: Everything You Need to Know
+- ✓ Article word count OK: Understanding Weekend Getaway Tutorials
+- ✓ Article word count OK: Weekend Getaway Tutorials Tips and Best Practices
+- ✓ Article word count OK: The History of Weekend Getaway Tutorials
+- ✓ Article word count OK: Weekend Getaway Tutorials in 2026: Current Trends
+- ✓ Article word count OK: Future of Weekend Getaway Tutorials
+- ✓ Article word count OK: Common Mistakes in Weekend Getaway Tutorials
+- ✓ Article word count OK: Weekend Getaway Tutorials for Beginners
+- ✓ Article word count OK: Advanced Weekend Getaway Tutorials Techniques
+- ✓ Ad configuration validated
